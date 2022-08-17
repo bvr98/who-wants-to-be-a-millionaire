@@ -1,0 +1,175 @@
+#1
+What is the sum of 1 + 1?
+1
+11
+0
+2
+2
+#2
+How many days do we have in a week?
+3
+5
+8
+7
+7
+#3
+How many letters are there in the English alphabet?
+50
+26
+30
+48
+26
+#4
+What is the difference of 10 - 11?
+1
+10
+11
+-1
+-1
+#5
+How many sides are there in a triangle?
+10
+4
+3
+8
+3
+#6
+Which month of the year has the least number of days?
+February
+January
+March
+December
+February
+#7
+What is the square root of 25?
+2
+5
+25
+0
+5
+#8
+What is the quotient of 36 / 9?
+3
+6
+9
+4
+4
+#9
+Which animal is called King of Jungle?
+Fox
+Lion
+Hen
+Monkey
+Lion
+#10
+Which festival is known as the festival of colors?
+Diwali
+Ramzan
+Holi
+Christmas
+Holi
+#11
+How many colors are there in a rainbow?
+10
+12
+7
+8
+7
+#12
+What type of bird lays the largest eggs?
+Ostrich
+Quail
+Emu
+Hen
+Ostrich
+#13
+What is the difference of 5 - 4?
+4
+5
+1
+0
+1
+#14
+How many weeks are there in one year?
+53
+54
+52
+58
+52
+#15
+What is the sum of 2 + 3?
+6
+5
+23
+32
+5
+#16
+How many bones does an adult human have?
+206
+205
+200
+207
+206
+#17
+Which is the fastest animal on the land?
+Dog
+Fox
+Wolf
+Cheetah
+Cheetah
+#18
+What is the sum of 10 + 11 + 14?
+25
+35
+45
+55
+35
+#19
+Which planet is known as the Red Planet?
+Earth
+Venus
+Mars
+Pluto
+Mars
+#20
+What is the square root of 36?
+1
+2
+6
+9
+6
+#21
+How many planets are there in our solar system?
+15
+12
+10
+8
+8
+#22
+Which is the smallest continent in the world?
+Australia
+Asia
+Europe
+Antarctica
+Australia
+#23
+How many cards are there in a complete pack of cards?
+100
+56
+52
+58
+52
+#24
+What is the quotient of 10 / 2?
+10
+2
+5
+3
+5
+#25
+Which is the largest continent in the world?
+North America
+Europe
+Australia
+Asia
+Asia
